@@ -1,0 +1,2 @@
+rootProject.name = "nur_eins"
+include(":app")
